@@ -29,8 +29,8 @@ Ensure you have the following installed:
 
 ### 2️⃣ **Clone the Repository**
 ```sh
-  git clone https://github.com/your-username/meta-backend-capstone.git
-  cd meta-backend-capstone
+  git clone https://github.com/bobburudinesh/Little-Lemon.git
+  cd Little-Lemon
 ```
 
 ### 3️⃣ **Set Up Environment Variables** 
